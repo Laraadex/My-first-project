@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-nav {
+ nav {
     background-color: #171717;
     display: flex;
     justify-content: center;
@@ -12,12 +12,6 @@ nav {
     padding: 15px;
     color: white;
 }
-
-a {
-    text-decoration: none;
-    color: white;
-}
-
 .body {
     width: 85%;
     margin: 40px auto;
@@ -27,34 +21,35 @@ a {
     border-radius: 12px;
 }
 
-h1 {
+h1{
     color: deeppink;
     font-size: 42px;
-    font-weight: bold;
+    font-weight: bold ;
+    text-align: center;
 }
 
-h2 {
+h2{
     color: lightgreen;
     justify-content: center;
     text-align: center;
 }
-
-button {
+    
+button{
     display: flex;
     width: 100%;
     justify-content: center;
     background-color: black;
     color: deeppink;
-}
-
+}  
 .hero {
     background-color: #1a1a1a;
     border-radius: 12px;
     padding: 40px;
-    border: 1px solid;
+    border: 1px solid ...;
     margin: 40px;
 }
-
-p {
-    color: white;
-}
+ 
+ p{
+     color: white;
+ }
+ .
